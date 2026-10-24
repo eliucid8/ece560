@@ -1,0 +1,14 @@
+cryptotest v2.0.2 by Eric Liu (el260@duke.edu)
+= Certified h4x0r report =
+
+Binary under test: your-mom.bf
+Test points: (3, 1, 4, 1, 5, 9, 2)
+Total points: 999 / 20
+Current username: eric
+Current hostname: Sarsaparilla
+Timestamp: https://xkcd.com/1179/
+
+Signatures:
+1e7f8d9c9f763b5bd0f4175c4c2e7a37
+0999a2c8d2b179564473dab631193ced
+309c9f3cc3e8370bae8811780c3e9ed6
